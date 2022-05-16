@@ -73,7 +73,7 @@ Asena.addCommand(
         commands.length
       )}${textToStylist(command.toUpperCase(), "mono")}\n`
     })
-    CMD_HELP += `╰────────────────`
+    CMD_HELP += `╰────────𝗭𝚫𝗟𝙄𝗢𝗢𝐒ꫂ────────`
     return await message.sendMessage("```" + CMD_HELP + "```")
   }
 )
